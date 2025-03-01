@@ -1,4 +1,4 @@
-# atividade_u4_paradigmas_em_projeto_de_software_estrat-gico
+#Gerenciamento de Configuração no Desenvolvimento de Software
 
 **Repositório de Gestão de Configuração de Software**
 
