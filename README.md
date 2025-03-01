@@ -1,4 +1,4 @@
-#Gerenciamento de Configuração no Desenvolvimento de Software
+Gerenciamento de Configuração no Desenvolvimento de Software
 
 **Repositório de Gestão de Configuração de Software**
 
